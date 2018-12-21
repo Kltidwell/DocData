@@ -1,7 +1,6 @@
 #American Documentaries, 1878 to 2017
 
-The goal of this project is to use data from IMDB to compare the growth of documentary versus non-documentary movies made in the United States from 1878 to 2017 and to compare the gender breakdown of different jobs on documentary crews. Currently, the initial data has been gathered to do the analysis but further cleaning and normalizing is necessary before it can be used for visualization or analysis.
-
+The goal of this project is to use data from IMDB to compare the growth of documentary versus non-documentary movies made in the United States from 1878 to 2017 and to compare the gender breakdown of different jobs on documentary crews. Currently, the initial data has been gathered to do the analysis but further cleaning and normalizing is necessary before it can be used for visualization or analysis. To gather the data, I scraped IMDB ids from their advanced search page (I am particularly proud of my solution to their website's problem with lists over 10,000), used those IDs to scrape more information about crew credits and combine it with data from the OMDi API, then added in guessed genders to each crew member based on their first name. Additional codes get the number of documentaries and non-documentaries per year and normalize the datasets for visualization and analysis.
 
 This project contains the following:
 
