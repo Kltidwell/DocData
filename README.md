@@ -115,11 +115,11 @@ combineData.json
 
 -----"Credit": "Directed by"
 
-		},
+-----},
 
 ----- {
 
-	  "Name": "Leland Stanford",
+-----"Name": "Leland Stanford",
 
 -----"castGroup": "Produced by",
 
@@ -127,19 +127,19 @@ combineData.json
 
 -----"Credit": "producer"
 
-		},
+-----},
 
 ----- {
 
-	  "Name": "Eadweard Muybridge",
+----- "Name": "Eadweard Muybridge",
 
 -----"castGroup": "Cinematography by",
 
 -----"order": 3,
 ----- 
-	  "Credit": "Cinematography by"
+----- "Credit": "Cinematography by"
 ----- 
-	  }
+-----}
 	
 castcrewGender.json
 
